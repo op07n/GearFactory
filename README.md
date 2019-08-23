@@ -1,3 +1,9 @@
+
+Download:
+
+https://github.com/Klafyvel/GearFactory/releases/
+
+
 # Gear Factory
 A software to generate gears. It uses SVG as an output.
 
